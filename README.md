@@ -68,7 +68,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 <a href="mailto:portillojair@gmai.com">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=Gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Gmail-%2324292e.svg?&style=for-the-badge&logo=Gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" />
 </a>  
 
 <br/>  
