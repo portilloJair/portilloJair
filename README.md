@@ -1,10 +1,28 @@
-### <div align="center">Hi 👋, I'm Jair Portillo</div>  
-  
+<h2 align="center"> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
+  <div align="center">
+<!-- <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right"> -->
+  </div>
+<li>
+ <b>Name:</b> Jair Portillo </li>
+<li>
+<b>Studying :</b> Computer and Information Technology
+</li>
+<li>
+ <b>Age :</b> 21
+</li>
+<li>
+<b>Gender:</b> Male :red_square::white_large_square::red_square:
+</li>
+<li>
+<b>Hobbys:</b> Web Development, Game Development, Music, Futboll
+</li>
+</div>
+<div>
 
 <br/>  
 
-
-## My Skill Set  
+<h2 align="center"> 𝗦𝗸𝗶𝗹𝗹𝘀 </h2>
+  <div align="center">
 <table><tr><td valign="top" width="33%">
 
 
@@ -45,16 +63,18 @@
 <br/>  
 
 
-## Connect with me  
+## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲 
 <a href="https://github.com/portilloJair" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-  
+<a href="portillojair@gmai.com">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" />
+</a>  
 
 <br/>  
 
 
-## Github Stats  
+## 𝗚𝗶𝘁𝗵𝘂𝗯 𝗦𝘁𝗮𝘁𝘀  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=portilloJair&theme=dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" align="center" /></div>
 
 <br/>  
